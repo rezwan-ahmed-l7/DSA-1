@@ -2,11 +2,9 @@
 
 <p align="center">
 
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-000000?style=for-the-badge&logoColor=white" />
+
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/Data%20Structures-1E1E1E?style=for-the-badge" />
-
-  <img src="https://img.shields.io/badge/Algorithms-4B8BBE?style=for-the-badge" />
 
   <a href="https://leetcode.com/u/RezwanAhmed/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
@@ -56,27 +54,6 @@ The primary goal of this repository is to strengthen problem-solving abilities, 
 * Complexity Analysis
 * Memory Management
 * Efficient Programming Techniques
-
----
-
-# Repository Structure
-
-```bash id="hq2x4y"
-DSA-1/
-│
-├── C++ Codes/
-│   ├── Arrays
-│   ├── Searching
-│   ├── Sorting
-│   ├── Linked List
-│   ├── Stack
-│   ├── Queue
-│   ├── Trees
-│   └── Graph
-│
-├── README.md
-└── LICENSE
-```
 
 ---
 
