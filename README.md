@@ -8,11 +8,9 @@
 
   <img src="https://img.shields.io/badge/Algorithms-4B8BBE?style=for-the-badge" />
 
-  <a href="https://www.hackerrank.com/profile/rezwanahmedtorab">
-    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  <a href="https://leetcode.com/u/RezwanAhmed/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 
 </p>
 
