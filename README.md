@@ -39,8 +39,6 @@ The primary goal of this repository is to strengthen problem-solving abilities, 
 * Queues
 * Trees
 * Binary Search Trees
-* Heap
-* Hashing
 * Graph Fundamentals
 * Traversal Algorithms
 
